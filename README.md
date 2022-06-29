@@ -1,3 +1,3 @@
 # Proyecto-Final
 
-En este repositorio se encuentra un PDF con la parte teórica del proyecto, otro PDF con los resultados de la implementación computacional del proyecto en un Jupyter Notebook y el Jupyter Notebook correspondientes.
+En este repositorio se encuentran tres archivos. La parte teórica del proyecto se encuentra en el archivo PDF llamado proyecto final; por otro lado, la parte computacional se encuentra en dos fuentes: un archivo PDF donde se puede visualizar el código con los outputs corresondientes y un cuaderno de Jupyter que contiene la misma información.
